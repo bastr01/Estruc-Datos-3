@@ -4,10 +4,6 @@
 #include <ctype.h>
 #include <stdbool.h>
 
-//Benjamin Astrain
-//Andres Hidalgo
-//Tomas Pantoja
-
 
 struct node {
     char first_name[100];
